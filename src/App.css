@@ -3,7 +3,6 @@ body {
 }
 
 h1 {
-  font-family: fantasy;
   font-size: 10vw;
   text-shadow: 1px 1px #000;
   margin-bottom: 0px;
@@ -12,7 +11,6 @@ h1 {
 }
 
 p {
-  font-family: fantasy;
   font-size: 5vw;
   text-shadow: 1px 1px #000;
   margin-top: 0px;
@@ -21,9 +19,6 @@ p {
 
 .App {
   background-image: url('https://cdn.vox-cdn.com/thumbor/eek1zAz3NPGHXzh05-h1q6G0HIk=/0x0:1000x562/1820x1213/filters:focal(420x201:580x361):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/57270897/ave_26_tacos_yelp.0.jpg');
-  background-size: cover;
-  background-color: rgba(255, 255, 255, 0.4);
-  background-blend-mode: difference;
   color: #fff;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   display: flex;
