@@ -21,7 +21,8 @@ p {
 }
 
 .App {
-  background-image: url('https://cdn.vox-cdn.com/thumbor/eek1zAz3NPGHXzh05-h1q6G0HIk=/0x0:1000x562/1820x1213/filters:focal(420x201:580x361):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/57270897/ave_26_tacos_yelp.0.jpg');
+  background-image: url('https://cdn.vox-cdn.com/thumbor/eek1zAz3NPGHXzh05-h1q6G0HIk=/0x0:1000x562/1820x1213/filters:focal(420x201:580x361):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/57270897/ave_26_tacos_yelp.0.jpg')
+    repeat 0 0;
   background-color: rgba(255, 255, 255, 0.4);
   background-blend-mode: difference;
   background-position: center;
